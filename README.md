@@ -1,16 +1,19 @@
-# push_app
+En esta app se cubre:
+-   FMC - Firebase cloud messaging
+    
+-   Push Notifications
+    
+-   Notificaciones cuando la aplicación está abierta
+    
+-   Notificaciones cuando la aplicación está en segundo plano o terminada
+    
+-   Usar el GlobalKey para manejar la navegación
+    
+-   Servicio REST de Firebase para envío de notificaciones push
+    
+-   Envío de argumentos en la notificación push
+    
+-   Uso de los argumentos de la push
+    
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Esta es una sección adicional que agregue al curso porque muchas personas me lo solicitaron, espero les guste y nos vemos en el siguiente video.
